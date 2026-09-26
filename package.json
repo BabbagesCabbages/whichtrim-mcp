@@ -1,0 +1,47 @@
+{
+  "name": "whichtrim-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for U.S. vehicle records: NHTSA recalls, complaints, investigations, service bulletins, trouble codes, EPA fuel economy, crash ratings and trim-level specs, by model year or VIN. Public data, no API key.",
+  "type": "module",
+  "bin": {
+    "whichtrim-mcp": "index.js"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nhtsa",
+    "recalls",
+    "vin",
+    "vin-decoder",
+    "vehicles",
+    "cars",
+    "service-bulletins",
+    "tsb",
+    "obd2",
+    "dtc",
+    "epa",
+    "automotive"
+  ],
+  "homepage": "https://whichtrim.com/developers/#mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabbagesCabbages/whichtrim-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BabbagesCabbages/whichtrim-mcp/issues"
+  },
+  "license": "MIT"
+}
