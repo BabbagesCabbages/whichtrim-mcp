@@ -1,5 +1,7 @@
 # whichtrim-mcp
 
+[![WhichTrim vehicle records MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
+
 An MCP server for U.S. vehicle records. Ask your assistant about a car and it gets the federal record, not a guess:
 
 - NHTSA recalls, with park-outside and do-not-drive advisories and completion rates
