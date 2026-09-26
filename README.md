@@ -57,6 +57,12 @@ claude mcp add --transport http whichtrim https://whichtrim.com/portal/mcp
 { "servers": { "whichtrim": { "type": "http", "url": "https://whichtrim.com/portal/mcp" } } }
 ```
 
+**Gemini CLI**
+
+```
+gemini extensions install https://github.com/BabbagesCabbages/whichtrim-mcp
+```
+
 **Windsurf, Cline, Goose, Zed and other stdio-only clients:** use the command `npx` with the arguments `-y github:BabbagesCabbages/whichtrim-mcp`.
 
 ## Tools

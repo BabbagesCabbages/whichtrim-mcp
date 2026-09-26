@@ -1,0 +1,10 @@
+{
+  "name": "whichtrim",
+  "version": "1.0.0",
+  "description": "U.S. vehicle records: NHTSA recalls, service bulletins by number, OBD-II trouble codes, VIN decode, EPA fuel economy and crash ratings. Free, no API key.",
+  "mcpServers": {
+    "whichtrim": {
+      "httpUrl": "https://whichtrim.com/portal/mcp"
+    }
+  }
+}
